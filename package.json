@@ -1,0 +1,11 @@
+{
+  "name": "frontend-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix ./frontend-projetofinal run dev",
+    "build": "npm --prefix ./frontend-projetofinal run build",
+    "preview": "npm --prefix ./frontend-projetofinal run preview",
+    "lint": "npm --prefix ./frontend-projetofinal run lint"
+  }
+}
